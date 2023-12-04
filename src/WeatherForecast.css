@@ -1,0 +1,30 @@
+.forecast--container {
+  margin-bottom: 2rem;
+}
+
+.forecasts--comp {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 2rem 1rem;
+}
+
+.forecasts--comp:last-child {
+  margin: 0 2rem;
+}
+
+.forecasts--comp P {
+  margin: 0;
+}
+
+.forecast--right img {
+  width: 1rem;
+}
+
+.forecast--left,
+.forecast--right {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.8rem;
+}

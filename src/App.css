@@ -1,0 +1,14 @@
+.app--comp {
+  flex: 0;
+  height: inherit;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 45rem;
+}
+
+.app--details--container {
+  margin: 0.8rem;
+  background-color: rgba(0, 149, 194, 0.4);
+  border-radius: 20px;
+}

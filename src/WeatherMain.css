@@ -1,0 +1,35 @@
+.main--degree {
+  display: flex;
+  font-size: 4rem;
+  margin: 0;
+}
+
+.main--celsius {
+  font-size: 2rem;
+  margin-top: 0.6rem;
+}
+
+.weather--main--container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  margin-top: 1.4rem;
+}
+
+.main--condition {
+  gap: 1rem;
+  margin: 1rem 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main--condition h2 {
+  margin: 0;
+}
+
+.main--condition img {
+  width: 2rem;
+}
